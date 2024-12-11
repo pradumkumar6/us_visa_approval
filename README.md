@@ -31,7 +31,9 @@ export MONGODB_URL="mongodb+srv://<username>:<password>...."
 
 export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
 
+
 export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
+
 
 
 ```
@@ -69,7 +71,7 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/visarepo
+    - Save the URI: 010928207563.dkr.ecr.ap-south-1.amazonaws.com/visa
 
 ## 4. Create EC2 machine (Ubuntu)
 
